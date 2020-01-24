@@ -1,0 +1,15 @@
+{
+    "name": "com.teamcitrus.svn-menu-items",
+    "version": "1.0.0",
+    "displayName": "SVN Menu Items",
+    "description": "Menu items that call common external SVN GUI clients.\n \u25AA Windows: TortoiseSVN\n \u25AA Mac OS: SnailSVN (only a shortcut to launch)\n \u25AA Linux: RabbitVCS",
+    "unity": "2018.1",
+    "keywords": [
+        "svn",
+        "editor"
+    ],
+	"author": {
+	    "name": "Team Citrus",
+		"email": "david@sigaty.dev"
+	}
+}
